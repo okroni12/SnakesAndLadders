@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/lascne.unity
+  isLoaded: 1
+  isActive: 1
